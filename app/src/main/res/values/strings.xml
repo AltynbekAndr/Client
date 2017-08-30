@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string-array name="category">
+        <item>Одежда</item>
+        <item>Еда</item>
+        <item>Смартфоны</item>
+        <item>Настольные-ПК</item>
+        <item>Ноутбуки</item>
+
+    </string-array>
+</resources>
